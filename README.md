@@ -1,9 +1,9 @@
-aGF2ZSB5b3UgZXZlbiB3b25kZXJlZCBob3cgaXQgY2FtZSB0byB0aGlzPw==
+# Bro. Wake Up. It's 2014.
 
-d2hhdCBoYXZlIHdlIGRvbmUgd3JvbmcgaW4gdGhlIHdvcmxkIHRvIGNyZWF0ZSB3aGF0IHdlIGhhdmUgY3JlYXRlZD8=
+*A story about waking up from a broken future and rediscovering the people you thought you'd lost forever.*
 
-YXMgd2VsbCBhcyB3aGF0IHdlIGhhdmUgZG9uZS4KdGhlcmUgbWF5IG5ldmVyIGJlIGFub3RoZXI=
+Written by Cardsea (aka Solidifiedplaydoh)
 
-IndoeSBjYW7igJl0IHdlIGdvIGJhY2t3YXJkc+KApiBmb3Igb25jZT8gQmFja3dhcmRzLCByZWFsbHkgZmFzdC4gRmFzdCBhcyB3ZSBjYW4uIFJlYWxseSBwdXQgdGhlIHBlZGFsIHRvIHRoZSBtZXRhbCwgeW91IGtub3c/IEJpbGwgYW5kIFRlZCBkaWQgaXQu4oCdIA==
+---
 
-https://toolbox.googleapps.com/apps/encode_decode/ 
+[full story here]
