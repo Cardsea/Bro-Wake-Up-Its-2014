@@ -6,4 +6,4 @@ Written by Cardsea (aka Solidifiedplaydoh)
 
 ---
 
-[full story here]
+[full story here](Bro-Wake-Up-Its-2014.txt)
